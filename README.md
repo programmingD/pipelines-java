@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Academy-Team22/azdevops-lab/_apis/build/status%2FEJHM3_programmingD.pipelines-java?branchName=main)](https://dev.azure.com/Academy-Team22/azdevops-lab/_build/latest?definitionId=2&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
